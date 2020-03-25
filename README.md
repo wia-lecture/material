@@ -39,7 +39,7 @@ _Kostenloser_ Zugriff auf E-Books der Bibliothek bei SpringerLink:
 
   * Simple Club: Perfekte Hausarbeit schreiben
     - [Teil 1: Themenfindung und Fragestellung](https://youtu.be/-j3ZDNrGVvU)
-    - [Teil 2: Literaturauswahl](https://youtu.be/ahYAI8mfLBY)<br>Bitte den Tip zu Google-Suche mit `filetype: pdf` ignorieren. Verwenden Sie z.B. [Google Scholar](https://scholar.google.com/), [Springerlink](https://link.springer.com/), [ACM](https://dl.acm.org) und [IEEE](https://ieeexplore.ieee.or) verwenden. Außerdem beachten Sie bitte, dass in unserer Disziplin primär Artikel aus Fachzeitschriften benutzt werden und weniger Bücher.
+    - [Teil 2: Literaturauswahl](https://youtu.be/ahYAI8mfLBY)<br>Bitte den Tip zu Google-Suche mit `filetype: pdf` ignorieren. Verwenden Sie z.B. [Google Scholar](https://scholar.google.com/), [Springerlink](https://link.springer.com/), [ACM](https://dl.acm.org) und [IEEE](https://ieeexplore.ieee.or). Außerdem beachten Sie bitte bei der Literaturrecherche, dass in unserer Disziplin primär Artikel aus Fachzeitschriften benutzt werden und weniger Bücher.
     - [Teil 3: Zeitplan und Quellenauswertung](https://youtu.be/O8qHvVny6O0)<br>Sinnvollerweise verwenden Sie eine Literaturverwaltung, z.B. [Mendeley](https://www.mendeley.com), [Zotero](https://www.zotero.org/ ), [JabRef](https://www.jabref.org/).
     - [Teil 4: Gliederung](https://youtu.be/Z2iEK01YLZc)
     - [Teil 5: Einleitung schreiben](https://youtu.be/Wy-vGlQY-Hs)<br>Die Tipps zu den Formalitäten können Sie ignorieren, da wir ein festes [Template](https://github.com/informatik-mannheim/term-paper-template) haben. Außerdem empfehlen wir, die Einleitung am Ende zu schreiben.

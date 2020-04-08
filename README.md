@@ -12,6 +12,13 @@ Die Folien sind wahrscheinlich nicht selbsterklärend. Sie können sie sich gern
   * [Foliensatz zur Vorlesung](https://smits-net.de/files/wia/folien/wia_slides.pdf)
 
 
+## Kurs der Bibliothek
+
+Die Hochschulbibliothek arbeitet aktuell an einem Online-Kurs zur Literaturrecherche (work in progress):
+
+  * [Moodle Kurs](https://moodle.hs-mannheim.de/course/index.php?categoryid=353)
+
+
 ## Paper/Bücher
 
   * [S. Kershaw. How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)

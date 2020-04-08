@@ -16,7 +16,7 @@ Die Folien sind wahrscheinlich nicht selbsterklärend. Sie können sie sich gern
 
 Die Hochschulbibliothek arbeitet aktuell an einem Online-Kurs zur Literaturrecherche (work in progress):
 
-  * [Moodle Kurs](https://moodle.hs-mannheim.de/course/index.php?categoryid=353)
+  * [Moodle Kurs der Bibliothek](https://moodle.hs-mannheim.de/course/view.php?id=3268)
 
 
 ## Paper/Bücher
